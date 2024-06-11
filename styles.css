@@ -1,4 +1,7 @@
 
+body{
+    background-color: rgb(220, 224, 228);
+}
 canvas {
     max-width: 100%;
     height: auto;
